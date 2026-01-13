@@ -57,15 +57,6 @@
 
 ---
 
-## Getting Started
-
-```bash
-git clone https://github.com/pi-card-app/pi-card.git
-cd pi-card && flutter pub get && flutter run
-```
-
----
-
 <p align="center">
   🏐 Made with ❤️ for the volleyball community
 </p>
