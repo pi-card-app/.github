@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <strong>記錄比賽 • 即時分享 • 報名臨打 • 找球友</strong>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#tech-stack">Tech Stack</a>
