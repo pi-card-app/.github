@@ -53,11 +53,11 @@ Pi-Card is designed for volleyball players, coaches, and referees:
 
 | Home | Scoreboard | Court View |
 |:----:|:----------:|:----------:|
-| ![Home](./profile/screenshots/home.png) | ![Scoreboard](./profile/screenshots/scoreboard.png) | ![Court](./profile/screenshots/court.png) |
+| ![Home](./screenshots/home.png) | ![Scoreboard](./screenshots/scoreboard.png) | ![Court](./screenshots/court.png) |
 
 | Lineup Setup | Settings | Live |
 |:------------:|:--------:|:----:|
-| ![Lineup](./profile/screenshots/setup_lineup.png) | ![Settings](./profile/screenshots/settings.png) | ![Live](./profile/screenshots/live.png) |
+| ![Lineup](./screenshots/setup_lineup.png) | ![Settings](./screenshots/settings.png) | ![Live](./screenshots/live.png) |
 
 ## Tech Stack
 
