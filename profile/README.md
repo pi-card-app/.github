@@ -30,27 +30,27 @@
 
 ## Features
 
-### 🏐 Official FIVB Rules Support
+### Official FIVB Rules Support
 - **5-Set Match Format** — Best of 5 sets, 25 points (15 in deciding set)
 - **2-Point Advantage** — Automatic deuce tracking
 - **6 Substitutions Per Set** — With substitution limit enforcement
-- **Libero Rules** — Back-row only, no serving restrictions tracked
+- **Libero Rules** — Back-row only, serving restrictions tracked
 
-### 📍 Rotation Tracking
+### Rotation Tracking
 - **Visual Court Diagram** — See all 6 positions for both teams
 - **Automatic Rotation** — Rotates on side-out
 - **Serving Indicator** — Always know who's serving
 - **Position Validation** — Ensures correct player placement
 
-### 📺 Live Casting
+### Live Casting
 - **Share Game Code** — Spectators join with a simple code
 - **Real-Time Sync** — Score updates instantly
 - **No Account Required** — Viewers can watch without signing up
 
-### 🌍 Multi-Language
-- 🇺🇸 English
-- 🇯🇵 日本語  
-- 🇹🇼 繁體中文
+### Multi-Language
+- English
+- 日本語  
+- 繁體中文
 
 ---
 
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  🏐 Made with ❤️ for the volleyball community
+  Made with care for the volleyball community
 </p>
