@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/FIVB-Rules%20Compliant-blue?style=flat-square" alt="FIVB">
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-green?style=flat-square" alt="Platform">
 </p>
 
 <p align="center">
@@ -11,25 +13,40 @@
 </p>
 
 <p align="center">
-  <em>A modern, intuitive volleyball scoreboard app with real-time player rotation tracking, live game casting, and multi-language support.</em>
+  <em>A modern volleyball scoreboard app following official FIVB rules with real-time rotation tracking, libero management, and live game casting.</em>
 </p>
 
 <p align="center">
+  <a href="#features">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#tech-stack">Tech Stack</a>
 </p>
 
 ---
 
-## ✨ Features
+## Features
 
-| Scoring | Official Mode | Live |
-|---------|---------------|------|
-| Tap-to-score interface | Rotation tracking | Cast to spectators |
-| Undo support | Libero management | Watch via cast code |
-| Set transitions | Substitution limits | Real-time sync |
+### 🏐 Official FIVB Rules Support
+- **5-Set Match Format** — Best of 5 sets, 25 points (15 in deciding set)
+- **2-Point Advantage** — Automatic deuce tracking
+- **6 Substitutions Per Set** — With substitution limit enforcement
+- **Libero Rules** — Back-row only, no serving restrictions tracked
 
-**Languages:** 🇺🇸 English • 🇯🇵 日本語 • 🇹🇼 繁體中文
+### 📍 Rotation Tracking
+- **Visual Court Diagram** — See all 6 positions for both teams
+- **Automatic Rotation** — Rotates on side-out
+- **Serving Indicator** — Always know who's serving
+- **Position Validation** — Ensures correct player placement
+
+### 📺 Live Casting
+- **Share Game Code** — Spectators join with a simple code
+- **Real-Time Sync** — Score updates instantly
+- **No Account Required** — Viewers can watch without signing up
+
+### 🌍 Multi-Language
+- 🇺🇸 English
+- 🇯🇵 日本語  
+- 🇹🇼 繁體中文
 
 ---
 
@@ -57,6 +74,7 @@
 | **State** | Riverpod |
 | **Backend** | Firebase |
 | **Storage** | Hive |
+| **Architecture** | Clean Architecture |
 
 ---
 
