@@ -1,4 +1,4 @@
-# Pi-Card — Volleyball Scoreboard & Community App
+# Picard — Volleyball Scoreboard & Community App
 
 **排球計分板與社群應用程式**
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./Picard.png" alt="Pi-Card" width="120">
+  <img src="./Picard.png" alt="Picard" width="120">
 </p>
 
 <p align="center">
