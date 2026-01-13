@@ -4,7 +4,7 @@
 
 > A modern, intuitive volleyball scoreboard app with real-time player rotation tracking, live game casting, and multi-language support. Built with Flutter.
 
-![Pi-Card Overview](./profile/picard-banner.png)
+![Pi-Card Overview](./profile/Picard.png)
 
 <!-- Site: Coming Soon -->
 
