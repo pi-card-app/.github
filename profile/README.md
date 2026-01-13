@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/FIVB-Rules%20Compliant-blue?style=flat-square" alt="FIVB">
+  <a href="https://www.fivb.com/wp-content/uploads/2025/01/FIVB-Volleyball_Rules2025_2028-EN-v05.pdf"><img src="https://img.shields.io/badge/FIVB-Rules%202025--2028-blue?style=flat-square" alt="FIVB"></a>
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-green?style=flat-square" alt="Platform">
 </p>
 
