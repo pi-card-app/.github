@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pi-card-app/pi-card">View Repository</a> •
   <a href="#screenshots">Screenshots</a> •
-  <a href="#getting-started">Get Started</a>
+  <a href="#tech-stack">Tech Stack</a>
 </p>
 
 ---
