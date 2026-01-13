@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status">
 </p>
+
+<p align="center">
   <img src="./Picard.png" alt="Pi-Card" width="120">
 </p>
 
