@@ -2,95 +2,67 @@
 
 **排球計分板與社群應用程式**
 
-> A modern, intuitive volleyball scoreboard app with real-time player rotation tracking, live game casting, and multi-language support. Built with Flutter.
+<p align="center">
+  <img src="./Picard.png" alt="Pi-Card" width="120">
+</p>
 
-![Pi-Card Overview](./Picard.png)
+<p align="center">
+  <em>A modern, intuitive volleyball scoreboard app with real-time player rotation tracking, live game casting, and multi-language support.</em>
+</p>
 
-<!-- Site: Coming Soon -->
-
-<!-- Demo Video: Coming Soon -->
-
----
-
-## Introduction
-
-Keeping score in volleyball—especially in official matches—requires tracking rotations, substitutions, libero replacements, and timeouts. Traditional paper scoresheets are error-prone and hard to follow. Pi-Card solves this with:
-
-- **Tap-to-Score Interface** — One tap to add a point, with instant visual feedback
-- **Rotation Tracking** — Visual court diagram showing all 6 positions for both teams
-- **Live Casting** — Share your game to spectators using a simple cast code
+<p align="center">
+  <a href="https://github.com/pi-card-app/pi-card">View Repository</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#getting-started">Get Started</a>
+</p>
 
 ---
 
-## Use Cases
+## ✨ Features
 
-Pi-Card is designed for volleyball players, coaches, and referees:
+| Scoring | Official Mode | Live |
+|---------|---------------|------|
+| Tap-to-score interface | Rotation tracking | Cast to spectators |
+| Undo support | Libero management | Watch via cast code |
+| Set transitions | Substitution limits | Real-time sync |
 
-- **Casual Games**:
-  - Quick setup with no lineup required
-  - Simplified rules, free substitutions
-  - Perfect for pickup games and practice matches
-
-- **Official Matches**:
-  - Full 5-set match support with proper point limits (25/15)
-  - Player rotation visualization with serving indicator
-  - Libero tracking with automatic position restrictions
-  - Substitution management with 6-sub limit per set
-
-- **Live Spectating**:
-  - Cast your game with a unique code
-  - Spectators can follow the score in real-time
-  - No account required to watch
-
-- **Multi-Language Support**:
-  - 🇺🇸 English
-  - 🇯🇵 日本語
-  - 🇹🇼 繁體中文
+**Languages:** 🇺🇸 English • 🇯🇵 日本語 • 🇹🇼 繁體中文
 
 ---
 
 ## Screenshots
 
-| Home | Scoreboard | Court View |
-|:----:|:----------:|:----------:|
-| ![Home](./screenshots/home.png) | ![Scoreboard](./screenshots/scoreboard.png) | ![Court](./screenshots/court.png) |
+<p align="center">
+  <img src="./screenshots/home.png" width="180">
+  <img src="./screenshots/scoreboard.png" width="180">
+  <img src="./screenshots/court.png" width="180">
+</p>
 
-| Lineup Setup | Settings | Live |
-|:------------:|:--------:|:----:|
-| ![Lineup](./screenshots/setup_lineup.png) | ![Settings](./screenshots/settings.png) | ![Live](./screenshots/live.png) |
+<p align="center">
+  <img src="./screenshots/setup_lineup.png" width="180">
+  <img src="./screenshots/settings.png" width="180">
+  <img src="./screenshots/live.png" width="180">
+</p>
+
+---
 
 ## Tech Stack
 
-| Category | Technology |
-|----------|------------|
-| Framework | Flutter / Dart |
-| State Management | Riverpod |
-| Backend | Firebase (Auth, Firestore) |
-| Navigation | Go Router |
-| Local Storage | Hive |
-| Architecture | Clean Architecture + SOLID |
+| | |
+|-|-|
+| **Framework** | Flutter / Dart |
+| **State** | Riverpod |
+| **Backend** | Firebase |
+| **Storage** | Hive |
 
 ---
 
 ## Getting Started
 
 ```bash
-# Clone the repository
 git clone https://github.com/pi-card-app/pi-card.git
-
-# Install dependencies
-cd pi-card
-flutter pub get
-
-# Run the app
-flutter run
+cd pi-card && flutter pub get && flutter run
 ```
-
----
-
-## License
-
-MIT License
 
 ---
 
